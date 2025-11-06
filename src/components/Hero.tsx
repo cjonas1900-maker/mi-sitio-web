@@ -5,7 +5,7 @@ function Hero() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h1 className="text-5xl md:text-6xl font-bold text-gray-900 leading-tight">
-              Mesa Central
+              Sitio de Muestra
               <span className="text-red-600"> - Sabores del Perú</span>
             </h1>
             <p className="text-xl text-gray-600">

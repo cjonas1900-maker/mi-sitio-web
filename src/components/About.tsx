@@ -10,7 +10,7 @@ function About() {
               Sabores Auténticos del Perú
             </h2>
             <p className="text-lg text-gray-600">
-              En Mesa Central te ofrecemos lo mejor de la gastronomía peruana.
+              En Sitio de Muestra te ofrecemos lo mejor de la gastronomía peruana.
               Nuestra misión es llevarte un viaje culinario por la costa, la sierra
               y la fusión oriental, todo en un solo lugar.
             </p>
